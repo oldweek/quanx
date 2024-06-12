@@ -1,6 +1,6 @@
 /** 
 Quantumult X 资源解析器 
-**/
+*/
 
 /*
 * 原链接：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
