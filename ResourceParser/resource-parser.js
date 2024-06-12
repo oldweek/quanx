@@ -1,9 +1,10 @@
 /** 
 Quantumult X 资源解析器 
+
 */
 
 /*
-* 原链接：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+原链接：https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
 */
 
 //beginning 解析器正常使用，調試註釋此部分
